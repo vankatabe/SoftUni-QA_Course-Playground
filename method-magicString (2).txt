@@ -1,3 +1,5 @@
+// comment
+
 static void Main(string[] args) // ili 	public static void Main()
 
 {
