@@ -1,5 +1,3 @@
-// Creates a string of predefined symbols
-
 static void Main(string[] args) // ili 	public static void Main()
 
 {
