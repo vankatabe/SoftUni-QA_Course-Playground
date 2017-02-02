@@ -1,5 +1,4 @@
 // comment
-//comment from QA1 local repo
 
 static void Main(string[] args) // ili 	public static void Main()
 
