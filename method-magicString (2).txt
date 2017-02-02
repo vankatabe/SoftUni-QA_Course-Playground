@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 // comment
+=======
+// comment--
+//comment from QA1 local repo
+>>>>>>> origin/master
 
 static void Main(string[] args) // ili 	public static void Main()
 
